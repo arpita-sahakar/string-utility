@@ -1,0 +1,26 @@
+{
+  "name": "string-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utility.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpita-sahakar/string-utility.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpita-sahakar/string-utility/issues"
+  },
+  "homepage": "https://github.com/arpita-sahakar/string-utility#readme",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  }
+}
